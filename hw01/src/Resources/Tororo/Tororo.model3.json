@@ -1,13 +1,13 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "tororo.moc3",
+		"Moc": "Tororo.moc3",
 		"Textures": [
-			"tororo.2048/texture_00.png"
+			"Tororo.2048/texture_00.png"
 		],
-		"Physics": "tororo.physics3.json",
-		"Pose": "tororo.pose3.json",
-		"DisplayInfo": "tororo.cdi3.json",
+		"Physics": "Tororo.physics3.json",
+		"Pose": "Tororo.pose3.json",
+		"DisplayInfo": "Tororo.cdi3.json",
 		"Motions": {
 			"Idle": [
 				{
