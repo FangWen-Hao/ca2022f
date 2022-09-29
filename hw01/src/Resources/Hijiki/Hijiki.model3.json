@@ -1,13 +1,13 @@
 {
 	"Version": 3,
 	"FileReferences": {
-		"Moc": "hijiki.moc3",
+		"Moc": "Hijiki.moc3",
 		"Textures": [
-			"hijiki.2048/texture_00.png"
+			"Hijiki.2048/texture_00.png"
 		],
-		"Physics": "hijiki.physics3.json",
-		"Pose": "hijiki.pose3.json",
-		"DisplayInfo": "hijiki.cdi3.json",
+		"Physics": "Hijiki.physics3.json",
+		"Pose": "Hijiki.pose3.json",
+		"DisplayInfo": "Hijiki.cdi3.json",
 		"Motions": {
 			"Idle": [
 				{
