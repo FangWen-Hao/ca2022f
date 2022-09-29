@@ -9429,8 +9429,8 @@ exports.BackImageName = 'Rolin_port.png';
 exports.GearImageName = 'Uboa.png';
 exports.PowerImageName = 'CloseNormal.png';
 exports.ModelDir = [
-    // 'Hijiki',
-    'Tororo',
+    'Hijiki',
+    // 'Tororo',
     'Haru',
     'Hiyori',
     'Mark',
